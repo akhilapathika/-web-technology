@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> basic webpage</title>
+    <style>
+        body{
+            text-align:center;
+            background-color:aliceblue;
+            margin:auto;
+            max-width:50%;
+            margin-top:50%;
+        }
+        p{
+            font-size:30px;
+            font-style:italic;
+        }
+        h1{
+            font-size:60px;
+            font-style:italic;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to my page..!</h1>
+    <p>This is my first webpage</p>
+    
+</body>
+</html>
